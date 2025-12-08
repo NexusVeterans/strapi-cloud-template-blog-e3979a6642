@@ -1,0 +1,27 @@
+{
+  "collectionName": "components_blocks_rich_blocks",
+  "info": {
+    "displayName": "Rich Block"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "content": {
+      "type": "blocks"
+    },
+    "alignment": {
+      "type": "enumeration",
+      "enum": [
+        "left",
+        "center",
+        "right",
+        "start",
+        "end",
+        "justify"
+      ]
+    }
+  },
+  "config": {}
+}

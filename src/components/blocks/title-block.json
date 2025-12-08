@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_blocks_title_blocks",
+  "info": {
+    "displayName": "Title Block"
+  },
+  "options": {},
+  "attributes": {
+    "primary": {
+      "type": "string"
+    },
+    "secondary": {
+      "type": "string"
+    },
+    "tertiary": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}
