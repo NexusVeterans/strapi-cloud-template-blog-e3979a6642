@@ -15,9 +15,10 @@
       "type": "dynamiczone",
       "components": [
         "sections.hero-section",
-        "blocks.rich-block",
-        "blocks.embed-block",
         "blocks.title-block",
+        "blocks.rich-block",
+        "blocks.paragraph-block",
+        "blocks.embed-block",
         "blocks.cta-block"
       ]
     }
